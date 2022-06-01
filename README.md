@@ -7,4 +7,4 @@ Realtime chat app with websockets using Node.js and Socket.io with javascript on
 npm install
 npm start
 
-Go to localhost:3000```
+Go to localhost:3000
