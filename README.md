@@ -1,5 +1,5 @@
 # chat-application
-Realtime chat app with websockets using Node.js and Socket.io with javascript on the frontend.
+Realtime chat app with websockets using Node.js and Socket.io.
 
 ## Usage
 
